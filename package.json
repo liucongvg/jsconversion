@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "build": "babel source_es6 -d target_es5"
+    },
+    "devDependencies": {
+        "gulp-cssbeautify": "^2.0.1"
+    }
+}
